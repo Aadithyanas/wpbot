@@ -1,0 +1,13 @@
+{
+  "ignore": [
+    "nexa_sessions/*",
+    "nexa_sessions/**/*",
+    "node_modules/*",
+    ".git/*"
+  ],
+  "watch": [
+    "server.js",
+    "scheduler.js",
+    ".env"
+  ]
+}
