@@ -8,6 +8,13 @@
   "watch": [
     "server.js",
     "scheduler.js",
+    "ai_tools.js",
+    "google_service.js",
+    "config/**/*.js",
+    "controllers/**/*.js",
+    "routes/**/*.js",
+    "models/**/*.js",
+    "services/**/*.js",
     ".env"
   ]
 }

@@ -1,1 +1,8 @@
 .env
+node_modules/
+nexa_sessions/
+sessions/
+google_credentials.json
+bot_state.json
+*.pem
+*.tar.gz
